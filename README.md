@@ -1,5 +1,6 @@
 # E-Commerce-Backend
 https://github.com/zestnachow/E-Commerce-Backend
+
 Walkthrough video link: https://drive.google.com/file/d/1Hgt3g0QKQh7DoCP1O1UqIaQ5uEx50zvC/view
 # Description
 This app uses a MySQL database and Sequelize ORM to provide a complete backend for a hypothetical e-commerce site. API routes were written in order to create, read, update, and delete categories, products, and tags.
