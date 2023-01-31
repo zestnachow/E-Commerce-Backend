@@ -20,7 +20,7 @@ ProductTag.init(
         unique: false,
       },
     },
-    tag_ig: {
+    tag_id: {
       type: DataTypes.INTEGER,
       references: {
         model: "Tag",
